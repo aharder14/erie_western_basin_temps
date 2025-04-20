@@ -1,0 +1,11 @@
+Station,Lat,Lon,Elevation,Name,Owner,Program,Type,Includes Meteorology,Includes Currents,Includes Water Quality,DART Program
+45165,41.702,-83.261,174.0,"Toledo Water Intake Buoy, Oregon, OH",Limno Tech,IOOS Partners,buoy,False,False,False,False
+45200,41.724,-83.37,174.0,Maumee Bay Buoy,Cleveland Water Alliance,IOOS Partners,buoy,False,False,False,False
+45201,41.601,-82.781,174.0,Erie Islands Buoy,Cleveland Water Alliance,IOOS Partners,buoy,False,False,False,False
+45202,41.532,-82.941,174.0,Port Clinton Buoy,Cleveland Water Alliance,IOOS Partners,buoy,False,False,False,False
+cmpo1,41.547,-83.015,175.0,"Camp Perry, OH",NWS Eastern Region,IOOS Partners,fixed,True,False,False,False
+mrho1,41.544,-82.731,176.0,"9063079 - Marblehead, OH",NOS,NOS/CO-OPS,fixed,True,False,False,False
+sbio1,41.629,-82.841,176.8,"South Bass Island, OH",NDBC,NDBC Meteorological/Ocean,fixed,True,False,False,False
+thlo1,41.826,-83.194,173.5,Toledo Light No. 2 OH,GLERL,IOOS Partners,fixed,True,False,False,False
+thro1,41.694,-83.473,176.2,"9063085 - Toledo, OH",NOS,NOS/CO-OPS,fixed,True,False,False,False
+twco1,41.699,-83.259,173.5,"Toledo Crib, OH",Limno Tech,IOOS Partners,fixed,True,False,False,False
