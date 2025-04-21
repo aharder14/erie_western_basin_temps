@@ -1,0 +1,9 @@
+Station,Solar radiation data,Standard meteorological data,Ocean current data,Continuous winds data
+45165,True,True,True,False
+45200,False,True,False,False
+45201,True,True,False,False
+45202,True,True,False,False
+cmpo1,False,True,False,False
+sbio1,False,True,False,True
+thlo1,False,True,False,False
+twco1,False,True,False,False
